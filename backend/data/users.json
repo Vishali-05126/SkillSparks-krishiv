@@ -1,0 +1,85 @@
+[
+  {
+    "id": "user_1788068490601",
+    "name": "John Smith",
+    "email": "john@example.com",
+    "password": "password123",
+    "skills": [],
+    "lookingFor": [],
+    "bio": ""
+  },
+  {
+    "id": "user_1789188758680",
+    "name": "Vishali",
+    "email": "vaishuvishali55@gmail.com",
+    "password": "Vishali@0517",
+    "skills": [
+      "html",
+      "css",
+      "js"
+    ],
+    "lookingFor": [
+      "MachineLearning"
+    ],
+    "bio": "I am a passionate web developer",
+    "skillDna": [
+      {
+        "name": "html",
+        "level": 5,
+        "confidence": 100,
+        "id": "user_1789188758680-0"
+      },
+      {
+        "name": "css",
+        "level": 5,
+        "confidence": 100,
+        "id": "user_1789188758680-1"
+      },
+      {
+        "name": "js",
+        "level": 5,
+        "confidence": 100,
+        "id": "user_1789188758680-2"
+      }
+    ],
+    "headline": "",
+    "avatarUrl": "",
+    "coverUrl": "",
+    "gender": "",
+    "dateOfBirth": "",
+    "city": "",
+    "country": "",
+    "timezone": "",
+    "languages": [],
+    "interests": [],
+    "phone": "",
+    "phoneVerified": false,
+    "hobbies": [],
+    "education": [],
+    "experience": [],
+    "certifications": [],
+    "achievements": [],
+    "personalityType": "",
+    "socialStyle": "",
+    "learnerType": "",
+    "mentorSettings": {
+      "hourlyRate": "",
+      "currency": "USD",
+      "mode": "video",
+      "availability": ""
+    },
+    "socialLinks": {},
+    "privacy": {},
+    "profileCompletionPercent": 26,
+    "proofs": []
+  },
+  {
+    "id": "local_1789202275182",
+    "name": "vishali",
+    "email": "vishali55@gmail.com",
+    "passwordHash": "$2a$12$jZUS4DtBcVMW3Cx4RwO6geLI3MwLOAUYyFCif539.ERTeMqcammRy",
+    "skills": [],
+    "lookingFor": [],
+    "bio": ""
+  }
+]
